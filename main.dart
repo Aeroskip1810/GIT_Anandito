@@ -1,5 +1,5 @@
 void main() {
-  String status = 'ini di main';
+  String nama = 'Anandito Indrasmara';
 
-  print(status);
+  print(nama);
 }
